@@ -10,7 +10,7 @@
 		},
 		{
 			title: 'Api',
-			path: '/api'
+			path: '/api/recipes'
 		}
 	];
 </script>
