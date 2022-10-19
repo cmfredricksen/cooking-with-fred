@@ -3,6 +3,9 @@
 	const { recipes, meta } = data;
 </script>
 
+<svelte:head>
+	<title>Cooking with Fred &hearts; #{data.tag}</title>
+</svelte:head>
 <h1>{data.tag}</h1>
 
 {#each recipes as recipe}

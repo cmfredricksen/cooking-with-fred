@@ -2,6 +2,10 @@
 	export let data;
 </script>
 
+<svelte:head>
+	<title>Cooking with Fred &hearts; Recipes</title>
+</svelte:head>
+
 <div class="recipe-list">
 	{#each data.recipes as recipe}
 		<div class="recipe-link">

@@ -3,6 +3,10 @@
 	const { title, tags, Content } = data;
 </script>
 
+<svelte:head>
+	<title>Cooking with Fred &hearts; {title}</title>
+</svelte:head>
+
 <h1>{title}</h1>
 <div class="tag-box">
 	{#each tags as tag}
