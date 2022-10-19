@@ -15,7 +15,7 @@ type: recipe
 - carrots (cut up)
 - celery (cut up)
 - potatoes (cubed)
-- <a href="/blog/Dumplings">Dumplings</a>
+- <a data-sveltekit-reload href="/recipes/Dumplings">Dumplings</a>
 - salt and pepper to taste
 
 ### Getting started
@@ -40,8 +40,18 @@ type: recipe
 
 ### Adding the Dumplings
 
-12. Mix up [[Dumplings]]
+12. Mix up <a data-sveltekit-reload href="/recipes/Dumplings">Dumplings</a>
 13. Drop dough by the tablespoon full into the simmering liquid
 14. Cover and let simmer for 10-15 minutes, until dumplings have cooked
 15. Remove from heat and let it cool for 10-15 minutes
 16. Serve and enjoy!
+
+<style>
+  a {
+    color: #6363cc;
+  }
+
+  a:hover {
+    color: #ff4500;
+  }
+</style>

@@ -10,10 +10,6 @@ tags:
 type: recipe
 ---
 
-## Chili
-
-[[recipes]] #spicy #one-dish [[one-pan-dinner]]
-
 ### Ingredients
 
 - 1 pound ground beef
@@ -51,7 +47,7 @@ Before starting, I like to measure out my seasonings and put them in a small bow
 6. Bring mixture to a slow boil.
 7. Reduce heat to **Low** and **cover**
 8. Cook for 20 minutes or more, turn off heat and let sit covered for 10 minutes.
-9. Stir and **Serve** with crackers or [[garlic bread]]
+9. Stir and **Serve** with crackers or garlic bread
 
 ### Serving Suggestions
 

@@ -1,5 +1,5 @@
 ---
-title: Hamburger Bolognese
+title: Spicy Goulash
 date: 2022-04-16
 subject: recipe
 classification: class
@@ -10,9 +10,7 @@ tags:
   - recipe
 ---
 
-## Hamburger Bolognese
-
-### Ingredients
+## Ingredients
 
 ### Sauce
 
@@ -34,15 +32,16 @@ tags:
 ### Pasta
 
 - Cook pasta in the sauce
+
   - Add 1.5 cups of dry pasta to sauce
   - Add water to just cover pasta
   - Mix pasta and sauce together
   - Cover and cook on low for 20 minutes
   - Turn off heat, let sit covered for ten minutes (optional: add cheese)
   - Serve
-- Other Recipes: [[one-pan-dinner | All in One Pan Recipes]]
 
 - Cook pasta separately
+
   - Cook pasta according to package directions
   - Drain & Rinse
   - Add to finished sauce, stir together
@@ -57,5 +56,5 @@ tags:
 5. Add water until desired consistency, 1/2 cup at a time
 6. Add seasonings
 7. Mix Sauce together well
-8. [Pasta](#Pasta)
-9. Cover and simmer on low for 20-20 minutes
+8. Add Pasta
+9. Finish according to directions above

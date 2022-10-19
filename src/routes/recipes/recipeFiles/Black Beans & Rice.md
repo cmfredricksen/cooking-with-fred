@@ -41,5 +41,3 @@ tags:
 9. Cook for 20 minutes
 10. Turn off heat, leave pan for another ten minutes
 11. Mix and Serve
-
-## Sources

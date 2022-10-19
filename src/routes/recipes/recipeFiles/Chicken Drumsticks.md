@@ -10,13 +10,9 @@ tags:
 type: recipe
 ---
 
-## Chicken Drumsticks
-
-#chicken[[recipes]]
-
 **Oven: 400&deg;**
 
-### Ingredients:
+## Ingredients:
 
 - 6 Chicken Drumsticks
 - 2 TBSP Olive Oil
@@ -27,14 +23,14 @@ type: recipe
 - 1 TSP Paprika
 - 1/4 TSP Cayenne Pepper
 
-### Directions:
+## Directions:
 
 1. In a small bowl, combine olive oil, salt, pepper, garlic powder, onion powder, paprika & cayenne.
 2. Brush drumsticks with mixture, covering well
 3. Bake at 400&deg; for 40 minutes or until chicken is done
 4. Serve
 
-**Variation**
+### Variation
 
 1. In a small bowl, combine olive oil, salt, pepper and paprika
 2. Brush drumsticks with mixture, covering well

@@ -11,10 +11,6 @@ tags:
 type: recipe
 ---
 
-### Dirty Rice
-
-[[one-pan-dinner]] #spicy #one-dish
-
 ### Ingredients
 
 - 1 pound Ground Beef
@@ -22,7 +18,7 @@ type: recipe
 - 1 1/2 cups Dry Jasmine Rice (can use long grain rice or any rice)
 - 3 cups water
 
-_Seasonings_
+### _Seasonings_
 
 - 1/2 tsp onion powder (optional)
 - 1/2 tsp garlic powder (optional)

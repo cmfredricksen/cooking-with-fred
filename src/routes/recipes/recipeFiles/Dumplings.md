@@ -1,5 +1,5 @@
 ---
-title: dumplings
+title: Dumplings for Stew
 date: 2022-02-28
 time: 2:21 pm
 tags:
@@ -7,10 +7,6 @@ tags:
   - soup
 type: recipe
 ---
-
-## Dumplings for Stew
-
-### Classic Recipe
 
 ### Ingredients
 
@@ -33,7 +29,3 @@ type: recipe
 3. Stir with a fork until combined
 4. Drop Mixture by a Tablespoon to form 4-6 mounds on top of bubbling stew
 5. Cover and let simmer for 10-12 minutes or until a toothpick comes out clean
-
-### Used in:
-
-[[Chicken and Dumplings]]

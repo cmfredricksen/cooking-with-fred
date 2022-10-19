@@ -22,4 +22,10 @@
 		width: 60%;
 		margin: 0 auto;
 	}
+
+	@media screen and (max-width: 768px) {
+		.wrapper {
+			width: 90%;
+		}
+	}
 </style>

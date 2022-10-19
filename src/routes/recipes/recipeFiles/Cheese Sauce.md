@@ -6,20 +6,16 @@ tags:
   - cheese
 ---
 
-1 can evaporated milk
-2 cups shredded cheese [cheddar]
-2 TBSP cornstarch
+## Ingredients
 
-**Optional: 1/4 cup jalapenos**
+- 1 can evaporated milk
+- 2 cups shredded cheese (Cheddar or Colby)
+- 2 TBSP cornstarch
+- **Optional: 1/4 cup jalapenos**
 
-Add 1 can of evaporated milk to sauce pan.
+## Directions
 
-Coat the shredded cheese in cornstarch.
-
-_Once the sauce is melted, stir in the jalapenos._
-
-Heat over med-low heat until done, stirring frequently.
-
-## Sources
-
-## Links
+1. Add 1 can of evaporated milk to sauce pan.
+2. Coat the shredded cheese in cornstarch.
+3. _Once the sauce is melted, stir in the jalapenos._
+4. Heat over med-low heat until done, stirring frequently.

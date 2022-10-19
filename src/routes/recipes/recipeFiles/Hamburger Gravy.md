@@ -10,10 +10,6 @@ tags:
 type: recipe
 ---
 
-## Hamburger Gravy
-
-[[recipes]]
-
 ### Ingredients
 
 - 1 pound ground beef
@@ -36,19 +32,13 @@ type: recipe
 
 You can serve over potatoes, bread or pasta.
 
-### Make it a [[one-pan-dinner]] !!
-
-#one-dish
-
-To make this a one pan meal follow these instructions!
-
-**Once the gravy has thickened...**
+### Make it a one pan dinner !!
 
 1. Once the gravy has thickened, add 2 cups dry pasta to the pan.
 2. Mix pasta into the gravy.
-3. Add water, just enough to cover the pasta. Stir again.
+3. Add water, just enough to make the gravy cover the pasta. Stir again.
 4. Bring to a slow simmer, stirring occasionally.
-5. Once the gravy is simmering, turn to low, cover with a tight lid.
+5. Once the gravy is simmering, turn the heat to low and cover with a tight lid.
 6. Cook on low for 20 minutes.
 7. Turn off heat, keep the lid on and let sit for 10 minutes.
 8. Stir and enjoy!

@@ -21,7 +21,3 @@ type: recipe
 2. Bake at 400 degrees 20 minutes
 3. Flip chops bake 20-30 mins
 4. Remove and let sit for 10-20 mins
-
-### tags:
-
-[[recipes]] [[pork]] [[dinner]]

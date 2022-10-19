@@ -11,8 +11,6 @@ tags:
   - easy
 ---
 
-## Lemon Pie
-
 ### Ingredients
 
 - 3 egg yolks

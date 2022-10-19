@@ -60,6 +60,11 @@ a:hover {
 
 .recipe-link {
 	margin: 1rem;
+	padding: 0.7rem 0;
+}
+
+.tag-box {
+	margin: 0.25rem 0;
 }
 
 .tag-box a {

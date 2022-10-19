@@ -1,9 +1,6 @@
 <script>
 	export let data;
 	const { recipes, meta } = data;
-	console.log(recipes);
-	console.log();
-	console.log();
 </script>
 
 <h1>{data.tag}</h1>
