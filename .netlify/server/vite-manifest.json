@@ -1,0 +1,249 @@
+{
+  ".svelte-kit/build/index.js": {
+    "file": "index.js",
+    "src": ".svelte-kit/build/index.js",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_index2.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/build/hooks.js"
+    ]
+  },
+  "src/routes/api/recipes/+server.js": {
+    "file": "entries/endpoints/api/recipes/_server.js",
+    "src": "src/routes/api/recipes/+server.js",
+    "isEntry": true,
+    "imports": [
+      "_index2.js"
+    ],
+    "dynamicImports": [
+      "src/routes/recipes/recipeFiles/Black Beans & Rice.md",
+      "src/routes/recipes/recipeFiles/Broccoli-Cheese-Rice.md",
+      "src/routes/recipes/recipeFiles/Cheese Sauce.md",
+      "src/routes/recipes/recipeFiles/Chicken Drumsticks.md",
+      "src/routes/recipes/recipeFiles/Chicken and Dumplings.md",
+      "src/routes/recipes/recipeFiles/Chili.md",
+      "src/routes/recipes/recipeFiles/Dirty Rice.md",
+      "src/routes/recipes/recipeFiles/Dumplings.md",
+      "src/routes/recipes/recipeFiles/Hamburger Gravy.md",
+      "src/routes/recipes/recipeFiles/Lemon Pie.md",
+      "src/routes/recipes/recipeFiles/Pork Chops.md",
+      "src/routes/recipes/recipeFiles/Spicy Goulash.md",
+      "src/routes/recipes/recipeFiles/Taco Fries.md",
+      "src/routes/recipes/recipeFiles/Taco Seasoning.md"
+    ]
+  },
+  "src/routes/+layout.svelte": {
+    "file": "entries/pages/_layout.svelte.js",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout-ad86f98f.css"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/+page.svelte": {
+    "file": "entries/pages/_page.svelte.js",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/recipes/+page.svelte": {
+    "file": "entries/pages/recipes/_page.svelte.js",
+    "src": "src/routes/recipes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/recipes/+page.js": {
+    "file": "entries/pages/recipes/_page.js",
+    "src": "src/routes/recipes/+page.js",
+    "isEntry": true
+  },
+  "src/routes/recipes/tag/[tag]/+page.svelte": {
+    "file": "entries/pages/recipes/tag/_tag_/_page.svelte.js",
+    "src": "src/routes/recipes/tag/[tag]/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/recipes/tag/[tag]/+page.js": {
+    "file": "entries/pages/recipes/tag/_tag_/_page.js",
+    "src": "src/routes/recipes/tag/[tag]/+page.js",
+    "isEntry": true
+  },
+  "src/routes/recipes/[slug]/+page.svelte": {
+    "file": "entries/pages/recipes/_slug_/_page.svelte.js",
+    "src": "src/routes/recipes/[slug]/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/recipes/[slug]/+page.js": {
+    "file": "entries/pages/recipes/_slug_/_page.js",
+    "src": "src/routes/recipes/[slug]/+page.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/routes/recipes/recipeFiles/Black Beans & Rice.md",
+      "src/routes/recipes/recipeFiles/Broccoli-Cheese-Rice.md",
+      "src/routes/recipes/recipeFiles/Cheese Sauce.md",
+      "src/routes/recipes/recipeFiles/Chicken Drumsticks.md",
+      "src/routes/recipes/recipeFiles/Chicken and Dumplings.md",
+      "src/routes/recipes/recipeFiles/Chili.md",
+      "src/routes/recipes/recipeFiles/Dirty Rice.md",
+      "src/routes/recipes/recipeFiles/Dumplings.md",
+      "src/routes/recipes/recipeFiles/Hamburger Gravy.md",
+      "src/routes/recipes/recipeFiles/Lemon Pie.md",
+      "src/routes/recipes/recipeFiles/Pork Chops.md",
+      "src/routes/recipes/recipeFiles/Spicy Goulash.md",
+      "src/routes/recipes/recipeFiles/Taco Fries.md",
+      "src/routes/recipes/recipeFiles/Taco Seasoning.md"
+    ]
+  },
+  "_index.js": {
+    "file": "chunks/index.js"
+  },
+  "_index2.js": {
+    "file": "chunks/index2.js"
+  },
+  ".svelte-kit/build/hooks.js": {
+    "file": "chunks/hooks.js",
+    "src": ".svelte-kit/build/hooks.js",
+    "isDynamicEntry": true
+  },
+  "src/routes/recipes/recipeFiles/Black Beans & Rice.md": {
+    "file": "chunks/Black Beans _ Rice.js",
+    "src": "src/routes/recipes/recipeFiles/Black Beans & Rice.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/recipes/recipeFiles/Broccoli-Cheese-Rice.md": {
+    "file": "chunks/Broccoli-Cheese-Rice.js",
+    "src": "src/routes/recipes/recipeFiles/Broccoli-Cheese-Rice.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/recipes/recipeFiles/Cheese Sauce.md": {
+    "file": "chunks/Cheese Sauce.js",
+    "src": "src/routes/recipes/recipeFiles/Cheese Sauce.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/recipes/recipeFiles/Chicken Drumsticks.md": {
+    "file": "chunks/Chicken Drumsticks.js",
+    "src": "src/routes/recipes/recipeFiles/Chicken Drumsticks.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/recipes/recipeFiles/Chicken and Dumplings.md": {
+    "file": "chunks/Chicken and Dumplings.js",
+    "src": "src/routes/recipes/recipeFiles/Chicken and Dumplings.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.js"
+    ],
+    "css": [
+      "_app/immutable/assets/Chicken and Dumplings-0b8d10eb.css"
+    ]
+  },
+  "src/routes/recipes/recipeFiles/Chili.md": {
+    "file": "chunks/Chili.js",
+    "src": "src/routes/recipes/recipeFiles/Chili.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/recipes/recipeFiles/Dirty Rice.md": {
+    "file": "chunks/Dirty Rice.js",
+    "src": "src/routes/recipes/recipeFiles/Dirty Rice.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/recipes/recipeFiles/Dumplings.md": {
+    "file": "chunks/Dumplings.js",
+    "src": "src/routes/recipes/recipeFiles/Dumplings.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/recipes/recipeFiles/Hamburger Gravy.md": {
+    "file": "chunks/Hamburger Gravy.js",
+    "src": "src/routes/recipes/recipeFiles/Hamburger Gravy.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/recipes/recipeFiles/Lemon Pie.md": {
+    "file": "chunks/Lemon Pie.js",
+    "src": "src/routes/recipes/recipeFiles/Lemon Pie.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/recipes/recipeFiles/Pork Chops.md": {
+    "file": "chunks/Pork Chops.js",
+    "src": "src/routes/recipes/recipeFiles/Pork Chops.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/recipes/recipeFiles/Spicy Goulash.md": {
+    "file": "chunks/Spicy Goulash.js",
+    "src": "src/routes/recipes/recipeFiles/Spicy Goulash.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "src/routes/recipes/recipeFiles/Taco Fries.md": {
+    "file": "chunks/Taco Fries.js",
+    "src": "src/routes/recipes/recipeFiles/Taco Fries.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.js"
+    ],
+    "css": [
+      "_app/immutable/assets/Taco Fries-0b8d10eb.css"
+    ]
+  },
+  "src/routes/recipes/recipeFiles/Taco Seasoning.md": {
+    "file": "chunks/Taco Seasoning.js",
+    "src": "src/routes/recipes/recipeFiles/Taco Seasoning.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.js"
+    ]
+  }
+}
