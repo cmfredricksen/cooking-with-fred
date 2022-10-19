@@ -9,8 +9,6 @@ tags:
 type: recipe
 ---
 
-#chicken #one-dish #stick-to-your-ribs
-
 ### Ingredients
 
 - 1 whole chicken 3-4 pounds

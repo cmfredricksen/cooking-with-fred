@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Pacifico&family=Roboto+Mono:wght@300&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	--font-heading: 'Pacifico', 'Montserrat', sans-serif;
+	--font-text: 'Montserrat', sans-serif;
+	--font-accent: 'Roboto Mono', 'Courier New', monospace;
+
+	--clr-black: #0a0a0f;
+	--clr-dark: #33334d;
+	--clr-medium: #666699;
+	--clr-light: #6363cc;
+	--clr-white: #f0f0f5;
+	--clr-accent: #ff4500;
+}
+
+body {
+	font-family: var(--font-text);
+	background-color: var(--clr-black);
+	color: var(--clr-white);
+}
+
+h1,
+h2,
+h3 {
+	font-family: var(--font-heading);
+	font-weight: 200;
+}
+
+h2,
+h3 {
+	margin: 1rem 0;
+	color: var(--clr-light);
+}
+
+a,
+li {
+	font-family: var(--font-accent);
+}
+
+li {
+	list-style-position: inside;
+	margin: 0.5rem 1rem;
+}
+
+a {
+	color: var(--clr-white);
+	margin: 0.25rem;
+	text-decoration: none;
+}
+
+a:hover {
+	color: var(--clr-accent);
+}
+
+.recipe-link {
+	margin: 1rem;
+}
+
+.tag-box a {
+	font-size: 0.7rem;
+	background-color: var(--clr-dark);
+	color: var(--clr-white);
+	text-decoration: none;
+}
+
+.tag-box a:hover {
+	color: var(--clr-accent);
+}
+
+.content-wrapper {
+	padding: 2rem 0;
+}
