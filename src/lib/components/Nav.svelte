@@ -9,8 +9,8 @@
 			path: '/recipes'
 		},
 		{
-			title: 'Api',
-			path: '/api/recipes'
+			title: 'Webfolio',
+			path: 'https://webfolio-cmfredricksen.netlify.app/'
 		}
 	];
 </script>
