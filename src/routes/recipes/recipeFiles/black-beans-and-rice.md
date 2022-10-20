@@ -12,11 +12,12 @@ tags:
 
 ## Ingredients
 
-- 1 TBSP olive oil or 2TBSP butter
+- 1 TBSP olive oil or 2TBSP butter (non-vegan option)
 - 1/2 cup chopped onion
 - 1/2 cup chopped bell pepper
 - 1-2 cloves garlic
 - 1 can black beans
+- 1/2 cup frozen or fresh corn
 - 1 cup rice
 - 2 cups of water
 
@@ -26,13 +27,14 @@ tags:
 - 1/4 tsp cayenne pepper
 - 1/2 tsp paprika
 - 1/2 tsp red pepper flakes
+- 2 splashes of Worcestershire sauce
 - 1 tsp salt
 
 ## Directions
 
 1. In a deep skillet add olive oil and turn on to medium heat
 2. Add onions, peppers and garlic. Sautee 3-5 minutes
-3. Add undrained beans, mix together
+3. Add undrained beans and corn, mix together
 4. Add seasonings, mix together
 5. Stir in rice
 6. Stir in water

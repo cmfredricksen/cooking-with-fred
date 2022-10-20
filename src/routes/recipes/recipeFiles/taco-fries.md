@@ -2,8 +2,9 @@
 title: Taco Fries
 date: 2022-05-30
 tags:
-  - note
   - recipe
+  - spicy
+  - stick-to-your-ribs
 ---
 
 - Make taco meat using <a data-sveltekit-reload href="/recipes/Taco%20Seasoning">Taco Seasoning</a>

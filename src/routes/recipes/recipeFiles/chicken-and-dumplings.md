@@ -6,6 +6,7 @@ tags:
   - recipe
   - one-dish
   - stick-to-your-ribs
+  - soup
 type: recipe
 ---
 
