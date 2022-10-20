@@ -6,6 +6,8 @@
 	spices to your liking.
 </p>
 
+<h3>Featured Recipe Categories:</h3>
+
 <div class="featured-recipes">
 	<div class="link-box">
 		<span class="material-symbols-outlined"> multicooker </span>
@@ -21,6 +23,19 @@
 	</div>
 </div>
 
+<h4>
+	You can look through all of the <a href="/recipes">recipes</a> or look through some of these categories:
+</h4>
+
+<div class="recipe-tags">
+	<a href="/recipes/tag/vegan">#vegan</a>
+	<a href="/recipes/tag/spicy">#spicy</a>
+	<a href="/recipes/tag/rice">#rice</a>
+	<a href="/recipes/tag/sauce">#sauce</a>
+	<a href="/recipes/tag/stick-to-your-ribs">#stick-to-your-ribs</a>
+	<a href="/recipes/tag/soup">#soup</a>
+</div>
+
 <p>
 	This website is a project with two purposes, one is an easy reference when I am cooking. This is
 	also a web development project. I built this project using SvelteKit. There is a link to my
@@ -28,12 +43,18 @@
 </p>
 
 <style>
+	h3 {
+		text-align: center;
+	}
+
+	h4 a {
+		color: var(--clr-light);
+	}
 	.featured-recipes {
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
-		padding: 2rem 1rem;
+		padding: 0 1rem;
 		margin: 1rem 0;
-		border: 2px solid var(--clr-medium);
 	}
 
 	.link-box {
@@ -46,7 +67,7 @@
 
 	a {
 		margin: 0 auto;
-		color: var(--clr-medium);
+		color: var(--clr-white);
 	}
 
 	a:hover {
@@ -56,7 +77,18 @@
 	span {
 		padding: 0;
 		font-size: 2rem;
-		color: var(--clr-medium);
+		color: var(--clr-light);
+	}
+
+	.recipe-tags a {
+		font-size: 0.75rem;
+		background-color: var(--clr-dark);
+		margin: 0 0.5rem;
+	}
+
+	.recipe-tags {
+		margin: 1rem auto;
+		text-align: center;
 	}
 
 	@media screen and (max-width: 768px) {
@@ -69,6 +101,17 @@
 			text-align: center;
 			font-size: 1.5rem;
 			padding-bottom: 1rem;
+		}
+
+		.recipe-tags {
+			display: flex;
+			flex-direction: column;
+			width: 50%;
+		}
+
+		.recipe-tags a {
+			margin: 0.25rem;
+			padding: 0.5rem 0;
 		}
 	}
 </style>
