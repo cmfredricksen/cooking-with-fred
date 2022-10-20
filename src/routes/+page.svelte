@@ -43,6 +43,10 @@
 </p>
 
 <style>
+	h1 {
+		padding: 1.5rem 0 2rem;
+	}
+	h1,
 	h3 {
 		text-align: center;
 	}
@@ -98,7 +102,6 @@
 		}
 
 		h1 {
-			text-align: center;
 			font-size: 1.5rem;
 			padding-bottom: 1rem;
 		}
