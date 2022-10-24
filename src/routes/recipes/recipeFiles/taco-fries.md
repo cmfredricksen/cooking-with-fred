@@ -7,8 +7,8 @@ tags:
   - stick-to-your-ribs
 ---
 
-- Make taco meat using <a data-sveltekit-reload href="/recipes/Taco%20Seasoning">Taco Seasoning</a>
-- Make <a data-sveltekit-reload href="/recipes/Cheese%20Sauce">Cheese Sauce</a>
+- Make taco meat using <a data-sveltekit-reload href="/recipes/taco-seasoning">Taco Seasoning</a>
+- Make <a data-sveltekit-reload href="/recipes/cheese-sauce">Cheese Sauce</a>
 
 1. Cook French Fries according to package directions.
 2. Season Fries with Taco Seasoning, after cooking.
